@@ -1,5 +1,5 @@
 class Article < ApplicationRecord
   validates_presence_of(:title)
 
-  revert
+  コミット打ち消し
 end
